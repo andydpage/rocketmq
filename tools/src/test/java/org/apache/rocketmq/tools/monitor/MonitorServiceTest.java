@@ -179,3 +179,4 @@ public class MonitorServiceTest {
         monitorService.reportConsumerRunningInfo("test_group");
     }
 }
+
